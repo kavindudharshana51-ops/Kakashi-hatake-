@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `Kakashi hatake-MD connected ✅\n\nPREFIX: ${prefix}`;
       await Kakashihatake-MD.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/kavindudharshana51-ops/Kakashi-hatake-/blob/main/image/Screenshot_20260614_002242_Google.jpg` },
+        image: { url: `https://github.com/kavindudharshana51-ops/Kakashi-hatake-/blob/main/image/lv_0_20260614003155.jpg` },
         caption: up
       });
 
