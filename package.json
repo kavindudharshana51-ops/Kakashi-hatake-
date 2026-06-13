@@ -1,12 +1,12 @@
 {
-  "name": "DANUWA-MD",
+  "name": "Kakashi hatake-MD",
   "version": "1.0.0",
   "description": "A Powerfull Whatsapp Bot",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DANUWA-MD",
-    "stop": "pm2 stop DANUWA-MD",
-    "restart": "pm2 restart DANUWA-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Kakashi hatake-MD",
+    "stop": "pm2 stop Kakashi hatake-MD",
+    "restart": "pm2 restart Kakashi hatake-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.16",
