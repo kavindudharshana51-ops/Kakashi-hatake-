@@ -9,7 +9,7 @@
     "restart": "pm2 restart Kakashi hatake-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^7.0.0",
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
     "api-dylux": "^1.0.0",
     "axios": "^1.17.0",
     "browser-id3-writer": "^6.3.1",
