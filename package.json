@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name Kakashi hatake-MD",
-    "stop": "pm2 stop Kakashi hatake-MD",
-    "restart": "pm2 restart Kakashi hatake-MD"
+    "stop": "pm2 stop index.js",
+    "restart": "pm2 restart index.js"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "^7.0.0-rc13",
